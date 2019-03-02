@@ -1,4 +1,5 @@
-# This simple tool is to delete all the extra files produced by vim when editing
+# This simple tool is to delete all the extra files produced by vim when editing 
+
 
 import os
 
